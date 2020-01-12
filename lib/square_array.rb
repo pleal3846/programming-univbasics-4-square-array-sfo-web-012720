@@ -1,4 +1,5 @@
 def square_array(array)
+  i = 0 
   
  square_array(numbers)
  
